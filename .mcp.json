@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "kind-home-vault": {
+      "type": "http",
+      "url": "https://vault.kindhome.marketing/mcp"
+    },
+    "composio": {
+      "type": "http",
+      "url": "https://connect.composio.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "kindhome-ai",
+  "description": "The Kind Home marketing team's Claude setup — the Vault connector plus the skills that use it. Install once and Claude knows the brand voice, the verified numbers, and how the team works.",
+  "version": "0.1.0",
+  "author": { "name": "Storystak", "url": "https://storystak.com" },
+  "homepage": "https://github.com/storystak/kindhome-ai",
+  "repository": "https://github.com/storystak/kindhome-ai",
+  "license": "MIT",
+  "keywords": ["kind-home", "marketing", "vault", "cro"],
+  "skills": "./skills",
+  "mcpServers": "./.mcp.json"
+}
