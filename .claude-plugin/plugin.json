@@ -1,7 +1,7 @@
 {
   "name": "kindhome-ai",
   "description": "The Kind Home marketing team's Claude setup \u2014 the Vault connector plus the skills that use it. Install once and Claude knows the brand voice, the verified numbers, and how the team works.",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "author": {
     "name": "Storystak",
     "url": "https://storystak.com"
