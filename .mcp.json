@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "kind-home-vault": {
+    "kind-home-stak": {
       "type": "http",
-      "url": "https://vault.kindhome.marketing/mcp"
+      "url": "https://kind.storystak.app/mcp"
     },
     "composio": {
       "type": "http",

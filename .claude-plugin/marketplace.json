@@ -2,14 +2,14 @@
   "name": "kindhome",
   "owner": { "name": "Storystak", "url": "https://storystak.com" },
   "metadata": {
-    "description": "Kind Home's Claude setup — Vault connector plus marketing skills.",
+    "description": "Kind Home's Claude setup — Stak connector plus marketing skills.",
     "repository": "https://github.com/storystak/kindhome-ai"
   },
   "plugins": [
     {
       "name": "kindhome-ai",
       "source": "./",
-      "description": "Vault connector plus the skills that use it. One install."
+      "description": "Stak connector plus the skills that use it. One install."
     }
   ]
 }
